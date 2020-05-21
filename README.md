@@ -1,2 +1,2 @@
 # credit-calcul
-# made by Saparkhan
+made by Saparkhan
